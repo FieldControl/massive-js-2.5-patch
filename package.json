@@ -29,22 +29,23 @@
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
-    "args-js": "^0.10.6",
-    "async": "^0.9.0",
-    "commander": "^2.6.0",
-    "core-js": "^3.35.0",
-    "deasync": "^0.1.1",
-    "glob": "^7.0.5",
+    "args-js": "0.10.6",
+    "async": "0.9.0",
+    "commander": "2.6.0",
+    "core-js": "3.35.0",
+    "deasync": "0.1.1",
+    "glob": "7.0.5",
     "pg": "8.3.0",
-    "pg-query-stream": "^0.7.0",
-    "strip-bom": "^2.0.0",
-    "underscore": "^1.8.2"
+    "pg-connection-string": "2.3.0",
+    "pg-query-stream": "0.7.0",
+    "strip-bom": "2.0.0",
+    "underscore": "1.8.2"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "istanbul": "^0.4.2",
-    "mocha": "^2.5.3",
-    "sinon": "^1.12.2"
+    "eslint": "1.10.3",
+    "istanbul": "0.4.2",
+    "mocha": "2.5.3",
+    "sinon": "1.12.2"
   },
   "repository": {
     "type": "git",
